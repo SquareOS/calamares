@@ -13,21 +13,21 @@ welcomeStyleCalamares:   false
 welcomeExpandingLogo:   false
 
 strings:
-    productName:         Norcux OS
-    shortProductName:    Norcux OS
+    productName:         Norcux OS Rolling
+    shortProductName:    Norcux OS Rolling
     version:             Alpha
     shortVersion:        Alpha
-    versionedName:       Norcux OS Alpha
-    shortVersionedName:  Norcux OS Alpha
-    bootloaderEntryName: Norcux OS
-    productUrl:          https://NorcuxOS.org/
+    versionedName:       Norcux OS Rolling Alpha
+    shortVersionedName:  Norcux OS Rolling Alpha
+    bootloaderEntryName: Norcux OS Rolling
+    productUrl:          https://NorcuxOS.github.io/
     supportUrl:          http://calamares.io/bugs/
     knownIssuesUrl:      http://calamares.io/about/
     releaseNotesUrl:     http://calamares.io/about/
 
 images:
-    productLogo:         "squid.png"
-    productIcon:         "squid.png"
+    productLogo:         "logo.png"
+    productIcon:         "logo.png"
     productWelcome:      "languages.png"
 
 slideshow:               "show.qml"
@@ -41,7 +41,7 @@ slideshow:               "show.qml"
 #  - sidebarSelect is the text color of the selected step.
 #
 style:
-   sidebarBackground:    "#16242b"
+   sidebarBackground:    "#263238"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#16242b"
+   sidebarTextSelect:    "#263238"
    sidebarTextHighlight: "#00bcd4"
