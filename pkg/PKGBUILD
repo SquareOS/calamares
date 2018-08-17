@@ -1,6 +1,6 @@
 pkgname=calamares
 pkgver=3.2.1
-pkgrel=3
+pkgrel=4
 pkgdesc='Distribution-independent installer framework'
 arch=('i686' 'x86_64')
 license=(GPL)
@@ -31,7 +31,7 @@ makedepends=('extra-cmake-modules'
              'boost')
 
 
-source+=("https://github.com/calamares/calamares/archive/v${pkgver}/calamares-${pkgver}.tar.gz"
+source+=("https://github.com/calamares/calamares/releases/download/v${pkgver}/calamares-${pkgver}.tar.gz
          git+https://github.com/NorcuxOS/calamares-configs#branch=master)
 
 sha256sums=('SKIP'
