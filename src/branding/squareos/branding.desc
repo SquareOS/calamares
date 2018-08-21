@@ -41,7 +41,7 @@ slideshow:               "show.qml"
 #  - sidebarSelect is the text color of the selected step.
 #
 style:
-   sidebarBackground:    "#263238"
+   sidebarBackground:    "#30343F"
    sidebarText:          "#FFFFFF"
-   sidebarTextSelect:    "#263238"
-   sidebarTextHighlight: "#00bcd4"
+   sidebarTextSelect:    "#30343F"
+   sidebarTextHighlight: "#FE8100"
