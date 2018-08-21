@@ -1,5 +1,5 @@
 ---
-componentName:  norcuxos
+componentName:  squareos
 
 # This selects between different welcome texts. When false, uses
 # the traditional "Welcome to the %1 installer.", and when true,
@@ -13,14 +13,14 @@ welcomeStyleCalamares:   false
 welcomeExpandingLogo:   false
 
 strings:
-    productName:         Norcux OS Rolling
-    shortProductName:    Norcux OS Rolling
+    productName:         Square OS
+    shortProductName:    Square OS
     version:             Alpha
     shortVersion:        Alpha
-    versionedName:       Norcux OS Rolling Alpha
-    shortVersionedName:  Norcux OS Rolling Alpha
-    bootloaderEntryName: Norcux OS Rolling
-    productUrl:          https://NorcuxOS.github.io/
+    versionedName:       Square OS
+    shortVersionedName:  Square OS
+    bootloaderEntryName: Square OS
+    productUrl:          
     supportUrl:          http://calamares.io/bugs/
     knownIssuesUrl:      http://calamares.io/about/
     releaseNotesUrl:     http://calamares.io/about/
