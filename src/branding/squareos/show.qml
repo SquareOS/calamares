@@ -59,7 +59,7 @@ Presentation {
             wrapMode: Text.WordWrap
             width: 800
             color: "#ffffff"
-            text: "Welcome to Norcux OS<br/>Please wait for the Installation to finish."
+            text: "Thank you for choosing Square OS!<br/>We hope you like it and enjoy your new operatingsystem.<br />Please wait, until the installer has finished"
             anchors.bottom: background.top
             anchors.bottomMargin: 20
             anchors.topMargin: -80
