@@ -38,8 +38,8 @@ sha256sums=('SKIP'
             'SKIP')
 
 prepare() {
-    cp -a ${srcdir}/calamares-configs/* ${srcdir}/calamares-${pkgver}
-    rm -rf ${srcdir}/calamares-configs
+    cp -a ${srcdir}/calamares/* ${srcdir}/calamares-${pkgver}
+    rm -rf ${srcdir}/calamares
     cd ${srcdir}/calamares-${pkgver}
 }
 
